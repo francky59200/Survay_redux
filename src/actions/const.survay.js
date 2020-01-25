@@ -1,0 +1,4 @@
+export const SURVAY_INIT = "SURVAY_INIT";
+export const SURVAY_PENDING = "SURVAY_PENDING";
+export const SURVAY_SUCCESS = "SURVAY_SUCCESS";
+export const SURVAY_REJECTED = "SURVAY_REJECTED";

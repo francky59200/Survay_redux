@@ -1,0 +1,19 @@
+.survay__display {
+  margin-left: 40px;
+  text-align: center;
+  border: 1px solid rgb(219, 195, 195);
+  width: 300px;
+  min-height: 200px;
+  background-color: rgb(219, 195, 195);
+}
+
+p {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.survay__icon {
+  font-size: 150px;
+  color: blue;
+}
